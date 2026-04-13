@@ -87,6 +87,8 @@ Business opportunities exist in overlooked segments. B2B customers are transacti
 **Demonstrating Technical Proficiency**
 This analysis demonstrates proficiency across multiple data science competencies:
 **Statistical Fundamentals:** The IQR-based outlier detection, percentile analysis, and correlation computation all reflect solid understanding of descriptive statistics and their appropriate applications.
+
 **Analytical Reasoning:** The MNAR detection for missing data and the tenure paradox discovery both required moving beyond simple calculations to business-relevant interpretation.
 Actionable Insight Generation: Every insight includes a quantified business impact and a specific recommended action, demonstrating that analysis is only valuable when it informs decisions.
+
 **Professional Presentation:** The structured output format, clear section headers, and summary dashboard make the analysis accessible to both technical and business audiences.
